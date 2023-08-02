@@ -1,0 +1,16 @@
+.border{
+    border: 2px solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding: 10px;
+}
+img{
+    width: 200px;
+}
+.cc{
+    width: 200px;
+}
+.horizon{
+    display: flex;
+    justify-content: space-around;
+}
