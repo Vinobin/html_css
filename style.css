@@ -42,3 +42,9 @@ p::first-letter{
     color: sienna;
     font-size: xx-large;
 }
+.cc:target{
+    background-image: linear-gradient(to top, moccasin, linen);
+}
+h2:hover{
+    background-color: grey;
+}
