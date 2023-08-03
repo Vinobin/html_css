@@ -48,3 +48,19 @@ p::first-letter{
 h2:hover{
     background-color: grey;
 }
+@media only screen and (max-width:500px){
+    *{
+        margin: 0px;
+        padding: 0px;
+    }
+    .screen{
+        width: 80%;
+    }
+    .respon{
+        display: flex;
+        flex-direction: column;
+    }
+    .lebar{
+        width: 100%;
+    }
+}
