@@ -31,3 +31,7 @@ img{
     background-image: linear-gradient(to right, aquamarine, oldlace);
     color: blue;
 }
+.tampilan{
+    display: inline-block;
+    padding: 3%;
+}
