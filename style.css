@@ -4,11 +4,14 @@
     padding-bottom: 10px;
     padding: 10px;
 }
+body{
+    background-image: linear-gradient(to bottom, mistyrose, powderblue, papayawhip);
+}
 img{
     width: 200px;
 }
 .cc{
-    width: 30&;
+    width: 30%;
 }
 .horizon{
     display: flex;
@@ -21,4 +24,8 @@ img{
 .tampung{
     width: 1000px;
     margin: auto;
+}
+.warna{
+    background-image: linear-gradient(to right, aquamarine, oldlace);
+    color: blue;
 }
