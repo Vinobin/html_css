@@ -35,3 +35,10 @@ img{
     display: inline-block;
     padding: 3%;
 }
+li:hover{
+    background-image: linear-gradient(to left, seashell, silver);
+}
+p::first-letter{
+    color: sienna;
+    font-size: xx-large;
+}
