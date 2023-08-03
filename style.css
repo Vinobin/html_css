@@ -12,6 +12,8 @@ img{
 }
 .cc{
     width: 30%;
+    padding: 5%;
+    box-sizing: border-box;
 }
 .horizon{
     display: flex;
