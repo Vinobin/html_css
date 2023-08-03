@@ -12,5 +12,9 @@ img{
 }
 .horizon{
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
+    gap: 30px;
+}
+.rata{
+    text-align: center;
 }
