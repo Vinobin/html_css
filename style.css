@@ -8,7 +8,7 @@ img{
     width: 200px;
 }
 .cc{
-    width: 200px;
+    width: 30&;
 }
 .horizon{
     display: flex;
@@ -17,4 +17,8 @@ img{
 }
 .rata{
     text-align: center;
+}
+.tampung{
+    width: 1000px;
+    margin: auto;
 }
