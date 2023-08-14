@@ -34,6 +34,10 @@ img{
 .tampilan{
     display: inline-block;
     padding: 3%;
+    animation-name: anim;
+    animation-duration: 5s;
+    animation-delay: 1s;
+    animation-iteration-count: infinite;
 }
 li:hover{
     background-image: linear-gradient(to left, seashell, silver);
@@ -63,4 +67,14 @@ h2:hover{
     .lebar{
         width: 100%;
     }
+}
+@keyframes anim{
+    0%   {background-color: khaki;}
+    25%  {background-color: mediumpurple;}
+    50%  {background-color: plum;}
+}
+
+.tampilan:hover{
+    animation-name: anim;
+    animation-duration: 5s;
 }
